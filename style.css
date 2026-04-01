@@ -6,14 +6,14 @@
 html {
   font-size: 62.5%;
   font-family: "Times New Roman", Times, serif; 
-  color: #d90e00 /*#cfcfcf*/
+  color: green /*#cfcfcf*/
 }
 body {
   font-size: 15px; /*1.5em; currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   font-family: "Times New Roman", Times, serif; /*"Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  color: #cfcfcf /*#FFFFFF;*/
+  color: orange /*#FFFFFF;*/
 }
 
 
@@ -23,7 +23,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:red/*#EF6D3D*/;
 }
 a:focus {
   outline: thin dotted;
