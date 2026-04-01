@@ -106,7 +106,7 @@ blockquote p:last-child {
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(murky1.png) center center no-repeat fixed;
+  background:url(tidepools1.mov) center center no-repeat fixed;
   background-size:cover;
 }
 body {
