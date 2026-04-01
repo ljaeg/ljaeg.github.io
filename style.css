@@ -21,6 +21,7 @@ a {
   font-weight: normal;
   text-decoration: none; 
   color:#EF6D3D;
+  font-family: "Times New Roman", Times, serif;
 }
 a:focus {
   outline: thin dotted;
@@ -57,6 +58,7 @@ h6 { font-size: 1.4rem; line-height: 1.6;  letter-spacing: 0; }
  */
 p {
   margin: 0 auto 1.5em auto; /* bottom margin for paragraphs */
+  font-family: "Times New Roman", Times, serif;
 }
 p + p {
 
