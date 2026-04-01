@@ -6,7 +6,7 @@
 html {
   font-size: 62.5%;
   font-family: "Times New Roman", Times, serif; 
-  color: #cfcfcf
+  color: #d90e00 /*#cfcfcf*/
 }
 body {
   font-size: 15px; /*1.5em; currently ems cause chrome bug misinterpreting rems on body element */
