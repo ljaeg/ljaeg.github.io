@@ -23,7 +23,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:red/*#EF6D3D*/;
+  color:#EF6D3D;
 }
 a:focus {
   outline: thin dotted;
@@ -69,7 +69,7 @@ h6 { font-size: 14px; line-height: 1.6;  letter-spacing: 0; }
 p {
   margin: 0 auto 1.5em auto; /* bottom margin for paragraphs */
   font-size: 20px;
-  color:blue;
+  color:#adadad;
 }
 p + p {
 
